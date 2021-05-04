@@ -1,19 +1,6 @@
----
-about: Suggest an idea for this project
-assignees: '@visormatt'
-labels: '🏗️ enhancement'
-name: Feature request
-title: '🤩 Feature Title'
----
+# 🤩 Feature Request
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis necessitatibus cum optio excepturi aliquid atque vero explicabo architecto dicta? Aliquam sed qui saepe quisquam iure. Cupiditate nam dolor cumque enim!
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- Lorem ipsum dolor
+- tbd...
