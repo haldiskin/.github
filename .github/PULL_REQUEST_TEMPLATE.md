@@ -1,10 +1,12 @@
 ---
 name: Pull request template
-about: Common template for Pull Requests.
+about: Common template for new Pull Requests.
 labels: '🏗️ enhancement'
+title: '🧩 Pull Request'
+assignees: ''
 ---
 
-# Overview
+## Overview
 
 - [demo branch](___DEMO_DEPLOYMENT___)
 
