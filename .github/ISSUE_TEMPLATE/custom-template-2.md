@@ -2,9 +2,6 @@
 name: Custom template 2
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: '🏗️ enhancement'
 assignees: ''
-
 ---
-
-
