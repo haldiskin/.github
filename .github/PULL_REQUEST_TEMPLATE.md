@@ -1,12 +1,18 @@
+---
+name: Pull request template
+about: Common template for Pull Requests.
+labels: '🏗️ enhancement'
+---
+
 # Overview
 
-- [demo branch](https://survey-git-___BRANCH_NAME___-haldi.vercel.app/)
+- [demo branch](___DEMO_DEPLOYMENT___)
 
 This PR...
 
 ## Changes
 
-- add | bug | feature | fix | remove | test
+- bug | feature | fix | test
 
 ## Testing
 
