@@ -1,5 +1,5 @@
 ---
-name: Pull request template
+name: Pull Request
 about: Common template for new Pull Requests.
 labels: '🏗️ enhancement'
 title: '🧩 Pull Request'

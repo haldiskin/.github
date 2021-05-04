@@ -1,12 +1,4 @@
----
-name: Contributing
-about: Community standards and guidelines
-labels: ''
-title: 'Contribution Guidelines'
-assignees: ''
----
-
-## Contributing to this repository
+# Contributing to this repository
 
 > 🚚 The goal is to ship small features, quickly, and frequently.
 

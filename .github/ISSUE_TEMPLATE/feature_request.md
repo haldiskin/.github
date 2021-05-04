@@ -1,5 +1,5 @@
 ---
-name: Feature request template
+name: Feature Request
 about: Common template for new feature requests.
 labels: '🏗️ enhancement'
 title: '🤩 Feature Request'

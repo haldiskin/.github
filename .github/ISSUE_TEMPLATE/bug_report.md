@@ -1,5 +1,5 @@
 ---
-name: Bug report template
+name: Bug Report
 about: Common template for Pull Requests.
 labels: '🐛 bug'
 title: '🐛 Bug Report'
