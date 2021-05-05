@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Common template for Pull Requests.
+about: Generic template for reporting bugs.
 labels: '🐛 bug'
 title: '🐛 Bug Report'
 assignees: ''
