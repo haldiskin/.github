@@ -2,7 +2,7 @@
 name: Bug Report
 about: Generic template for reporting bugs.
 labels: '🐛 bug'
-title: '🐛 Bug Report'
+title: 'P#: Title'
 assignees: '@visormatt, @nikgavalas'
 ---
 
@@ -14,7 +14,7 @@ assignees: '@visormatt, @nikgavalas'
 - **P3:** Low priority, fix it as time permits or as re-prioritized
 - **P4:** Won't fix. Well hopefully we will it's just a very low priority.
 
-A clear and concise description of what the bug is.
+Prefix the title of this bug with the severity, ex: `P1: Admin login not working` along with a clear and concise description of what the bug is here.
 
 ## To Reproduce
 
