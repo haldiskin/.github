@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Generic template for reporting bugs.
-labels: '🐛 bug'
-title: 'P#: Title'
-assignees: '@visormatt, @nikgavalas'
+labels: 🐛 bug
+title: P# | Title
+assignees: visormatt, nikgavalas
 ---
 
 ## Overview
