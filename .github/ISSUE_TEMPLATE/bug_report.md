@@ -2,13 +2,19 @@
 name: Bug Report
 about: Generic template for reporting bugs.
 labels: '🐛 bug'
-title: '🐛 Bug Report'
-assignees: ''
+title: 'P#: Title'
+assignees: '@visormatt, @nikgavalas'
 ---
 
 ## Overview
 
-A clear and concise description of what the bug is.
+- **P0:** Urgent priority. Forgo creating a ticket and use an `@here` in the `#engineering` channel
+- **P1:** High priority and impacting the business, address ASAP
+- **P2:** Medium priority, needs to be addressed within a few days
+- **P3:** Low priority, fix it as time permits or as re-prioritized
+- **P4:** Won't fix. Well hopefully we will it's just a very low priority.
+
+Prefix the title of this bug with the severity, ex: `P1: Admin login not working` along with a clear and concise description of what the bug is here.
 
 ## To Reproduce
 
